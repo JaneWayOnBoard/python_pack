@@ -1,0 +1,7 @@
+setup.py
+motivate/__init__.py
+motivate/me.py
+motivate.egg-info/PKG-INFO
+motivate.egg-info/SOURCES.txt
+motivate.egg-info/dependency_links.txt
+motivate.egg-info/top_level.txt
